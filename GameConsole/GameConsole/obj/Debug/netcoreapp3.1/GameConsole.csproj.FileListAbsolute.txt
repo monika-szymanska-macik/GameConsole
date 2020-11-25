@@ -1,0 +1,13 @@
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.exe
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.deps.json
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.runtimeconfig.json
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.runtimeconfig.dev.json
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.dll
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\bin\Debug\netcoreapp3.1\GameConsole.pdb
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.csprojAssemblyReference.cache
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.AssemblyInfoInputs.cache
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.AssemblyInfo.cs
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.csproj.CoreCompileInputs.cache
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.dll
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.pdb
+C:\Users\monik\source\repos\monika-szymanska-macik\GameConsole\GameConsole\GameConsole\obj\Debug\netcoreapp3.1\GameConsole.genruntimeconfig.cache
