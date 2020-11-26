@@ -12,7 +12,18 @@ namespace GameConsole
             {
                 Name = "Sarah"
             };
-            PlayerCharacter amrit = new PlayerCharacter(new IronBonesDefence())
+            PlayerCharacter amrit = new PlayerCharacter(SpecialDefence.Null)
+            {
+                Name = "Amrit"
+            };
+            PlayerCharacter gentry = new PlayerCharacter(SpecialDefence.Null)
+            {
+                Name = "Gentry"
+            };
+
+            sarah.Hit(10);
+            amrit.Hit(10);
+            gentry.Hit(10);
                 
             //PlayerCharacter[] players = new PlayerCharacter[3]
             //{
