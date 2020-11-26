@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monik\\source\\repos\\monika-szymanska-macik\\GameConsole\\GameConsole\\GameConsole\\GameConsole.csproj": {}
+    "C:\\Users\\monik\\Source\\Repos\\monika-szymanska-macik\\GameConsole\\GameConsole\\GameConsole\\GameConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monik\\source\\repos\\monika-szymanska-macik\\GameConsole\\GameConsole\\GameConsole\\GameConsole.csproj": {
+    "C:\\Users\\monik\\Source\\Repos\\monika-szymanska-macik\\GameConsole\\GameConsole\\GameConsole\\GameConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monik\\source\\repos\\monika-szymanska-macik\\GameConsole\\GameConsole\\GameConsole\\GameConsole.csproj",
+        "projectUniqueName": "C:\\Users\\monik\\Source\\Repos\\monika-szymanska-macik\\GameConsole\\GameConsole\\GameConsole\\GameConsole.csproj",
         "projectName": "GameConsole",
-        "projectPath": "C:\\Users\\monik\\source\\repos\\monika-szymanska-macik\\GameConsole\\GameConsole\\GameConsole\\GameConsole.csproj",
+        "projectPath": "C:\\Users\\monik\\Source\\Repos\\monika-szymanska-macik\\GameConsole\\GameConsole\\GameConsole\\GameConsole.csproj",
         "packagesPath": "C:\\Users\\monik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\monik\\source\\repos\\monika-szymanska-macik\\GameConsole\\GameConsole\\GameConsole\\obj\\",
+        "outputPath": "C:\\Users\\monik\\Source\\Repos\\monika-szymanska-macik\\GameConsole\\GameConsole\\GameConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\monik\\AppData\\Roaming\\NuGet\\NuGet.Config",
