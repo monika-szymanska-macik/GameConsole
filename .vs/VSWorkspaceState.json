@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GameConsole",
+    "\\GameConsole\\GameConsole"
   ],
+  "SelectedNode": "\\GameConsole\\GameConsole.sln",
   "PreviewInSolutionExplorer": false
 }

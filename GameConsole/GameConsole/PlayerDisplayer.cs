@@ -6,30 +6,19 @@ namespace GameConsole
 {
     class PlayerDisplayer
     {
-        public static void Write(PlayerCharacter player)
+        public static void Write(PlayerCharacter? player)
         {
-            if (string.IsNullOrWhiteSpace(player.Name))
+            if (player is null)
             {
-                Console.WriteLine("PLayer name is null or all whitespace");
+                Console.WriteLine("No player specified.");
+                return;
             }
-            else
-            {
-                Console.WriteLine(player.Name);
-            }
+            Console.WriteLine(player.Name);
 
             int days = player.DaysSinceLastLogin ?? -1;
-            //int days = player.DaysSineLastLogin.HasValue ? player.DaysSinceLastLogin.Value : -1;
-            //int days = player.DaysSineLastLogin.GetValueOrDefault(-1);
+
             Console.WriteLine($"{days} days since last login");
 
-            //if (player.DaysSinceLastLogin.HasValue)
-            //{
-            //    Console.WriteLine(player.DaysSinceLastLogin.Value);
-            //}
-            //else
-            //{
-            //    Console.WriteLine("No value for DaysSinceLastLogin");
-            //}
             if (player.DateOfBirth == null)
             {
                 Console.WriteLine("No date of birth specified");
